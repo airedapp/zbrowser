@@ -1,0 +1,22 @@
+{
+  "latest_version": "3.0.3",
+  "latest_version_code": "303",
+  "changelog": "- 支持更多图片网站\n- 动态解析网站阅读模式\n- 种子、磁力高速下载\n- 边下边播极速预览\n- 网页视频嗅探全屏播放\n- 全面屏蔽网页广告",
+
+  "downloadUrl": "https://www.lanzous.com/b07lbscqb",
+  "shareUrl": "https://www.lanzous.com/b07lbscqb",
+  "fileName": "",
+  "imgRefererNvshen": "https://www.baidu.com",
+  "imgRefererMzitu": "https://www.baidu.com",
+  "imgRefererMoeimg": "https://www.baidu.com",
+  "imgRefererMM131": "https://www.baidu.com",
+  "isGoCoolMarket": false,
+  "coolMarketUrl": "https://www.lanzous.com/b07lbscqb",
+  "nFlag":0,
+  "nForce":false,
+  "nContent":"",
+  "banner_url":"",
+  "banner_pic":"",
+  "errorImg":"http://ww1.sinaimg.cn/large/dd3efb1fgy1ghuopt90vtj20a00dc0t9.jpg",
+  "example":"http://ww1.sinaimg.cn/large/dd3efb1fgy1ghuopt90vtj20a00dc0t9.jpghttp://ww1.sinaimg.cn/large/dd3efb1fgy1gax7pne042j208c08caaa.jpg"
+}
